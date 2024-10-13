@@ -5,6 +5,11 @@
 - [Отчёты о дефектах в мобильном приложении](https://github.com/user-attachments/files/17350518/default.xlsx)
 - [Информация о тестовом прогоне для проверки мобильного приложения](https://github.com/user-attachments/files/17350519/G8-Express%2Brun%2B2024_10_12.pdf)
 - [Отчёт по результатам тестирования мобильного приложения](https://github.com/user-attachments/files/17350527/default.pdf)
+- [Перехват и изменение трафика на Android-устройстве с помощью Charles Proxy (видео)](https://github.com/user-attachments/assets/38395566-3d8b-49a5-af41-8d2f6611bd1b)
+
+
+
+
 
 
 
